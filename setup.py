@@ -19,6 +19,7 @@ REQUIRED_PACKAGES = [
     "tensorflow ~= 2.4.1",
     "tensorflow-probability ~= 0.12.1",
     "trfl ~= 1.1.0",
+    "scikit-image ~= 0.18.1"
 ]
 
 # Packages which are only needed for testing code.
