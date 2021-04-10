@@ -8,6 +8,6 @@ looking for something robust, it's probably best to use Acme.
 
 To install *QDeep*, use the following command:
 
-``
+```
 $ pip install qdeep
-``
+```
